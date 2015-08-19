@@ -25,7 +25,7 @@
 	       <strong>Error!</strong> Please enter a correct date.
 	     </div>
 <?php	     break;
-					}
+	 }
 	}
 ?>			
 	<form role = "form" method = "POST" action = "controller/add/AddArticleCntrl.php">
