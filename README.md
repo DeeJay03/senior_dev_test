@@ -1,8 +1,8 @@
-### Senior Full Stack Dev Test
+## Senior Full Stack Dev Test
 
 Simple application that can be used to view and add news articles using a MySQL database.
 
-## Installation
+### Installation
 
 1. Run the .sql script in the _install directory.
   -- If using the MySQL command line interface, enter:
@@ -12,7 +12,7 @@ Simple application that can be used to view and add news articles using a MySQL 
 
 3. Using the existing file structure, start the application from index.php.
 
-## TODO
+### TODO
 
 1. Change navigation location.
 2. Change in page buttons to look different from navigation buttons (or vice versa).
