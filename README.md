@@ -6,7 +6,7 @@ Simple application that can be used to view and add news articles using a MySQL 
 
 1. Run the .sql script in the _install directory.<br />
   -- If using the MySQL command line interface, enter:<br />
-    mysql> source [Full path to file]\DBConfig.sql;<br /><br />
+    mysql> source [Full path to file]\DBConfig.sql;<br />
     
 2. If using the WAMP server, copy repository to th www folder in the WAMP root directory.<br />
 
