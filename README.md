@@ -17,4 +17,4 @@ Simple application that can be used to view and add news articles using a MySQL 
 1. Change navigation location.<br />
 2. Change in page buttons to look different from navigation buttons (or vice versa).<br />
 3. Delete articles page to delete from database.<br />
-4. Edit article to page to update details (especially the article state)
+4. Edit article page to update details (especially the article state)
